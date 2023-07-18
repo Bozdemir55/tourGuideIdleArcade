@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3699166488691553189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3699166488691553186}
+  - component: {fileID: 3699166488691553187}
+  m_Layer: 0
+  m_Name: Gun 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3699166488691553186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3699166488691553189}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.05, y: 4.17, z: -5.66}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3699166488691553187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3699166488691553189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aae98af4160c3f44a105545f7b49970, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axis: 2
+  maxDistance: 50
+  target: {fileID: 0}
+  rounds: 1
+  rate: 0.3
+  strength: 1.74
+  radius: 1
+  affectInactive: 1
+  demolishCluster: 1
+  affectRigidBodies: 1
+  damage: 55.2
+  debris: 1
+  dust: 1
+  flash: 1
+  Flash:
+    intensityMin: 0.5
+    intensityMax: 0.7
+    rangeMin: 5
+    rangeMax: 7
+    distance: 0.4
+    color: {r: 1, g: 1, b: 0.8, a: 1}
+  mask: -1
+  tagFilter: Untagged
+  showRay: 1
+  showHit: 1
+  shooting: 0

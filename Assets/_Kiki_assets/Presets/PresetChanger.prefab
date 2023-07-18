@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3417736053847024241
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3417736053847024240}
+  - component: {fileID: 3417736053847024247}
+  m_Layer: 0
+  m_Name: PresetChanger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3417736053847024240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3417736053847024241}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3417736053847024247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3417736053847024241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c9be9f24b4bf464c87b113d4f405616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fogGameObject: {fileID: 0}
+  platformsPlain:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  platformsHex:
+  - {fileID: 0}
+  platformsSpare: []
+  _presetGroups:
+  - _fogMaterialPresets:
+    - {fileID: 2100000, guid: e976867eea0154b7babc513126a579bb, type: 2}
+    - {fileID: 2100000, guid: 628274eac3a7d4600af9fe9b7d41ccbe, type: 2}
+    - {fileID: 2100000, guid: df3d606950d4b45d3b8fab56a717d2e0, type: 2}
+    - {fileID: 2100000, guid: 0ed81f1c620ef49b39356b53d2309a1b, type: 2}
+    - {fileID: 2100000, guid: 914cc48caa68841ec9ab6d5aad1757bb, type: 2}
+    _platformMesh: {fileID: 4300000, guid: 3dcb005f85ef2427984b86cddd2dc5ea, type: 2}
+    _platformHexMesh: {fileID: 4300000, guid: fb78842dede674d0d857e375801d5f22, type: 2}
+    _platformSpareMesh: {fileID: 0}
+  - _fogMaterialPresets:
+    - {fileID: 2100000, guid: e976867eea0154b7babc513126a579bb, type: 2}
+    - {fileID: 2100000, guid: 628274eac3a7d4600af9fe9b7d41ccbe, type: 2}
+    - {fileID: 2100000, guid: df3d606950d4b45d3b8fab56a717d2e0, type: 2}
+    - {fileID: 2100000, guid: 0ed81f1c620ef49b39356b53d2309a1b, type: 2}
+    - {fileID: 2100000, guid: 914cc48caa68841ec9ab6d5aad1757bb, type: 2}
+    _platformMesh: {fileID: 4300000, guid: a664a97f2d94c4bd5b3a51fd643c2039, type: 2}
+    _platformHexMesh: {fileID: 4300000, guid: b26a6be969bf64a7692beeb795d1f65e, type: 2}
+    _platformSpareMesh: {fileID: 0}
+  - _fogMaterialPresets:
+    - {fileID: 2100000, guid: e976867eea0154b7babc513126a579bb, type: 2}
+    - {fileID: 2100000, guid: 628274eac3a7d4600af9fe9b7d41ccbe, type: 2}
+    - {fileID: 2100000, guid: df3d606950d4b45d3b8fab56a717d2e0, type: 2}
+    - {fileID: 2100000, guid: 0ed81f1c620ef49b39356b53d2309a1b, type: 2}
+    - {fileID: 2100000, guid: 914cc48caa68841ec9ab6d5aad1757bb, type: 2}
+    _platformMesh: {fileID: 4300000, guid: 34d90cccf09064e8aaed132655378eed, type: 2}
+    _platformHexMesh: {fileID: 4300000, guid: 5be29942823c547dc919a10a0e465191, type: 2}
+    _platformSpareMesh: {fileID: 0}
+  - _fogMaterialPresets:
+    - {fileID: 2100000, guid: e976867eea0154b7babc513126a579bb, type: 2}
+    - {fileID: 2100000, guid: 628274eac3a7d4600af9fe9b7d41ccbe, type: 2}
+    - {fileID: 2100000, guid: df3d606950d4b45d3b8fab56a717d2e0, type: 2}
+    - {fileID: 2100000, guid: 0ed81f1c620ef49b39356b53d2309a1b, type: 2}
+    - {fileID: 2100000, guid: 914cc48caa68841ec9ab6d5aad1757bb, type: 2}
+    _platformMesh: {fileID: 4300000, guid: 4effbaefff1874fb8a1354d50faa349c, type: 2}
+    _platformHexMesh: {fileID: 4300000, guid: e5581dd8f9cf94f628738ed27a487fde, type: 2}
+    _platformSpareMesh: {fileID: 0}
+  - _fogMaterialPresets:
+    - {fileID: 2100000, guid: e976867eea0154b7babc513126a579bb, type: 2}
+    - {fileID: 2100000, guid: 628274eac3a7d4600af9fe9b7d41ccbe, type: 2}
+    - {fileID: 2100000, guid: df3d606950d4b45d3b8fab56a717d2e0, type: 2}
+    - {fileID: 2100000, guid: 0ed81f1c620ef49b39356b53d2309a1b, type: 2}
+    - {fileID: 2100000, guid: 914cc48caa68841ec9ab6d5aad1757bb, type: 2}
+    _platformMesh: {fileID: 4300000, guid: 9e7582bfc564c40898b6be21e1dcec87, type: 2}
+    _platformHexMesh: {fileID: 4300000, guid: e2f8e87c0c67646e48c5c663ebeeda13, type: 2}
+    _platformSpareMesh: {fileID: 0}
+  - _fogMaterialPresets:
+    - {fileID: 2100000, guid: e976867eea0154b7babc513126a579bb, type: 2}
+    - {fileID: 2100000, guid: 628274eac3a7d4600af9fe9b7d41ccbe, type: 2}
+    - {fileID: 2100000, guid: df3d606950d4b45d3b8fab56a717d2e0, type: 2}
+    - {fileID: 2100000, guid: 0ed81f1c620ef49b39356b53d2309a1b, type: 2}
+    - {fileID: 2100000, guid: 914cc48caa68841ec9ab6d5aad1757bb, type: 2}
+    _platformMesh: {fileID: 4300000, guid: 80b7f90be100f4e7eaa39304aa7aa46a, type: 2}
+    _platformHexMesh: {fileID: 4300000, guid: 1a6657933d1034dc18ff00832ad61b65, type: 2}
+    _platformSpareMesh: {fileID: 0}
+  isRandom: 1
+  choosenPresetId: 0

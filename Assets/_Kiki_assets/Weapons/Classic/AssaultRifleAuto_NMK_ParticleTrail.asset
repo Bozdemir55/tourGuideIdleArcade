@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13aa4bc6f5eeb994baf070a31ef774fd, type: 3}
+  m_Name: AssaultRifleAuto_NMK_ParticleTrail
+  m_EditorClassIdentifier: 
+  openTab: 0
+  weaponName: AssaultRifleGun
+  selfTag: Untagged
+  layer: 0
+  bullets: 1
+  burst: 0
+  burstDelay: 0.1
+  bulletsPerBurst: 3
+  fireRate: 0.2
+  damage: 50
+  breakOnHit: 1
+  lifetime: 2
+  innacuracy: {x: 0, y: 0, z: 0}
+  evenInnacuracy: 0
+  reverseSweep: 0
+  randomVelocityMultiplier: {x: 1, y: 1}
+  bounce: 0
+  stopStickOnBounce: 1
+  bounces: 1
+  bounceFriction: 0
+  randomBounceAngle: {x: 0, y: 0}
+  bounceTags: []
+  bounceSound: {fileID: 0}
+  bounceParticle: {fileID: 19822144, guid: feda6fdd7929546b5acd0eaa97a7392e, type: 3}
+  bounceSpawn: {fileID: 0}
+  damageTags:
+  - Zombie
+  - Enemy
+  - Breakable
+  - Untagged
+  damageSound: {fileID: 0}
+  damageParticle: {fileID: 19822144, guid: feda6fdd7929546b5acd0eaa97a7392e, type: 3}
+  damageSpawn: {fileID: 0}
+  breakTags: []
+  breakSound: {fileID: 0}
+  breakParticle: {fileID: 19822144, guid: feda6fdd7929546b5acd0eaa97a7392e, type: 3}
+  breakSpawn: {fileID: 0}
+  fizzleParticle: {fileID: 19822144, guid: feda6fdd7929546b5acd0eaa97a7392e, type: 3}
+  fizzleSpawn: {fileID: 0}
+  fizzleSound: {fileID: 0}
+  homing: 0
+  homingTags: []
+  homingCheckInterval: 0.5
+  homingCheckInitialOnly: 0
+  homingCheckInitialRange: 10
+  homingCheckIntervalRange: 5
+  homingSpeed: 1
+  homingAcceleration: 1
+  showHomingGizmo: 0
+  fireSound: {fileID: 8300000, guid: 08ef3735b9527d54ab97d0e9fc9d505d, type: 3}
+  fireParticle: {fileID: 19842610, guid: 3c9922e6202be4952997ac47d61bfa8e, type: 3}
+  screenShake: 0
+  projectileMesh: {fileID: 0}
+  projectileScale: {x: 0.3, y: 0.3, z: 0.3}
+  hitboxRadius: 0.1
+  showCollisionDebug: 1
+  material: {fileID: 0}
+  receiveShadows: 0
+  trail: 1
+  particleTrail: {fileID: 5745787044582070486, guid: 306a19fb89e0e48f7985df7310469ad1,
+    type: 3}
+  trailMaterial: {fileID: 2100000, guid: 4db040dc23eca4e01bad8fee2eccb185, type: 2}
+  trailTime: 0
+  trailMinVertexDistance: 0
+  trailAutodestruct: 0
+  trailEmitting: 0
+  trailWidthCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0023896694
+      value: 0.20408612
+      inSlope: Infinity
+      outSlope: -0.23221932
+      tangentMode: 7
+      weightedMode: 2
+      inWeight: 0
+      outWeight: 0.8507856
+    - serializedVersion: 3
+      time: 0.9953494
+      value: 0.00035846024
+      inSlope: -0.167579
+      outSlope: -0.167579
+      tangentMode: 0
+      weightedMode: 1
+      inWeight: 0.5571378
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  trailColorGradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 0}
+    key2: {r: 0.19134924, g: 0.9433962, b: 0.26993766, a: 0}
+    key3: {r: 0.5821022, g: 0.9716981, b: 0.92494655, a: 0}
+    key4: {r: 0.9716981, g: 0.03208439, b: 0.88330376, a: 0}
+    key5: {r: 0.9811321, g: 0.3191456, b: 0.29156283, a: 0}
+    key6: {r: 0.04004982, g: 0.30520758, b: 0.9433962, a: 0}
+    key7: {r: 0.9273476, g: 0.9811321, b: 0.041651815, a: 0}
+    ctime0: 578
+    ctime1: 65150
+    ctime2: 17348
+    ctime3: 24287
+    ctime4: 33731
+    ctime5: 41634
+    ctime6: 54548
+    ctime7: 65535
+    atime0: 30455
+    atime1: 65535
+    atime2: 65535
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  trailAlignment: 0
+  trailTextureMode: 0
+  initalForwardSpeed: 15
+  limitSpeed: 0
+  maxForwardSpeed: 1000
+  minForwardSpeed: -1000
+  forwardAcceleration: 0
+  rotationSpeed: {x: 0, y: 0, z: 0}
+  randomRotationSpeed: 0
+  angularDrag: 0
+  angularTurbulance: {x: 0, y: 0, z: 0}
+  gravity: 0
+  destoryOnZeroSpeed: 1
+  projectileStick: 0
+  interpolateStick: 1
+  projectileStickTags: []
+  projectileHeight: 1
+  projectileStickSpeed: 10
+  usePool: 1
+  poolSize: 100
+  autoExpansion: 15
+  poolID: 11517
+  tempTargetPoint: {x: 0, y: 0, z: 0}
+  tempIsFPS: 1
