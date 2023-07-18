@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61213b1d-9ab6-41cd-9efb-00b25c56e809" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/Water/WaterPropertyBlockSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/AnimationStarter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dreamteck/Splines/Core/SplineTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Scripts/Wrapper/GA_Wrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/BuildingInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/PlanesHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/MoneyHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/ShipsHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/TouchRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/BuildUpgradeCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Scripts/GameAnalytics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Scripts/Wrapper/GA_MonoWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/CameraDepthSlider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Low Poly Ultimate Pack v3.0/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Scripts/Wrapper/GA_AndroidWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/GameConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Deformers Assets/DeformersScripts/Skinned Mesh Deformers/SkinnedMeshFlareDeformer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Scripts/Events/GA_SpecialEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Deformers Assets/DeformersScripts/Skinned Mesh Deformers/SkinnedMeshSine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Low Poly Ultimate Pack v3.0/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/GameDatas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__HackerX/StylizedWater/Scripts/StylizedWaterRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Low Poly Ultimate Pack v3.0/Standard Assets/Environment/Water/Water/Scripts/Water.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NavMeshComponents/Editor/NavMeshAssetManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NiceVibrations/Common/Scripts/NiceVibrations/MMNVPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MoneyCollectible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/AnimationSoundEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Scripts/Events/GAValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/CarCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AppsFlyer/Windows/AppsFlyerWindows.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PaintIn3D/InGame/Scripts/P3dInputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/Scripts/PuppetMasterHierarchyAPI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpatialSpeechBubble/Assets/Scripts/SpechBubbleSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Topdown Weapon Editor URP/Scripts/Weapon/Editor/TweWeaponObjectInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Control-Freak-2/Extra/KeyPressEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NiceVibrations/Common/Scripts/Haptics/MMNViOS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C89F75-2069-4139-9913-32D3CF930D48/01/92c2c5a8/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dreamteck/Splines/Editor/SplineEditor/DS Editor/PrimitivesModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Puppet3D/Scripts/Controls/BlendShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Topdown Weapon Editor URP/Scripts/Weapon/TweProjectileControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/CarsHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/TourOfficeUpgradeCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/numeratorscript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/TicketOfficeUpgradeCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tiny Giant Studio/Modular 3D Text/Scripts/Editor/Modular3DTextEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NiceVibrations/Demos/DemoAssets/CarDemo/Scripts/CarDemoManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/HelisHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/CursorScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/RandomPosSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AppsFlyer/AppsFlyeriOS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/TriggerObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/TourOfficeInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/Scripts/PropRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AppsFlyer/AppsFlyerAndroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/ShaderProperty.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/KikiPrefab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/ParkPlaceUpgradeCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dreamteck/Splines/Components/Editor/SplineMeshEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/LevelDesigner/LevelDesignerSimple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AppsFlyer/AFMiniJSON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/TutorialScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/NeutralControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/SplineManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UDP/Editor/Analytics/SdkImportEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/FakeCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/WallScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/ProductBtn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/CanvasManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/BaseCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Editor/GA_SignUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Editor/GA_SettingsInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Playmaker/SendBusinessEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/PlayerCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/MoneyControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dreamteck/Utilities/Editor/EditorGUIEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/DollarCollect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Epic Toon FX/Demo/ParticleEffectsShowcase/Scripts/ParticleEffectsLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/BasePlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Kiki_assets/Scripts/BreakableOnTheWayController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__TourGuide/Scripts/ParkPlaceInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tiny Giant Studio/Modular 3D Text/Scripts/Modular3DText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kadir/Scripts/ObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Animancer/Examples/09 Animator Controllers/03 3D Game Kit/States/LocomotionState.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/CarCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/MoneyControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/SplineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/numeratorscript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MoneyCollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/TriggerObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/WallScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/Water/WaterPropertyBlockSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/ShipsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/PlanesHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/CarsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/MoneyHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/HelisHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/TutorialScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/BuildingInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/TourOfficeUpgradeCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/GameDatas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/GameConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/TicketOfficeUpgradeCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/ObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/BaseCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/HelisHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/ShipsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/PlanesHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/ParkPlaceInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/BuildUpgradeCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/CarsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/HolderScript/MoneyHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/NeutralControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/RandomPosSet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kadir/Scripts/PlayerControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/ParkPlaceUpgradeCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/__TourGuide/Scripts/CursorScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29yqCXHTLoh1hrNTcuW7xbqxw8v" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
