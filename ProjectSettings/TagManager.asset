@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cover
+  - CoverHi
+  - Crouch
+  - Vault
+  - Enemy
+  - CU
+  - CE
+  - Ground
+  - Ammo
+  - AO
+  - Cam
+  - ST
+  - CP
+  - Ledge
+  - FPSTarget
+  - Zombie
+  - Colorable
+  - PP
+  - DollarCollector
+  - FpsBound
+  - Breakable
+  - FinishConfetti
+  - Obstacle
+  - Key
+  - PlayerCollectorColliderLeft
+  - PlayerCollectorColliderRight
+  - RewardX
+  - Gold1
+  - Gem
+  - PoseWall
+  - Painter
+  - Marble
+  - Rock
+  - AppleGreen
+  - Orange
+  - BarbellRed
+  - BarbellGreen
+  - BarbellPurple
+  - BarbellOrange
+  - Puppet
+  - Bomb
+  - Slap
+  - Hair
+  - Water
+  - InputDeactivator
+  - JumpTrigger
+  - RunTrigger
+  - PoseIdentifier
+  - Bone
+  - RayFireBomb
+  - Weapon
+  - AppleRed
+  - BarbellBlue
+  - Weight
+  - Woman
+  - FinalCamera
+  - Final
+  - PlayerTrigger
+  - ClubDoorTrigger
+  - ClubGateTrigger
+  - GirlClubGateTrigger
+  - Dollar
+  - DollarRollOnTheWay
+  - Furniture
+  - MultiplierWall
+  - MultiplierDoor
+  - Car
+  - Drivable Car
+  - MoneyPar
+  - MusicalNote
+  - ParkingTime
+  - ParkPlace
+  - NeutralPlayer
+  - UpgradeCanvas
+  - TicketUpgradeCanvas
+  - BuildUpgradeCanvas
+  - TourUpgradeCanvas
+  - test
+  - Vehicle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerTrigger
+  - Water
+  - UI
+  - ParkPlaceTrigger
+  - ParkPlace
+  - Player
+  - Camlimit
+  - PuppetMaster
+  - Ground&Bounds
+  - Collider&Obstacle
+  - Breakable
+  - Collectible
+  - Enemy
+  - NeaturalPlayers
+  - Money
+  - VehicleTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
